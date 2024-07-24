@@ -1,0 +1,13 @@
+{
+  "name": "fullstackopen_part-13",
+  "version": "1.0.0",
+  "main": "package.json",
+  "scripts": {
+    "dev": "node src/index.js",
+    "migration:down": "node src/util/rollback.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
